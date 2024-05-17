@@ -1,4 +1,4 @@
-# Webpage with Dynamic Landing WebPage
+# Dynamic Landing WebPage
 
 This webpage is a simple example of webpage design using HTML, CSS, and JavaScript. The webpage features a images and some text content with stunning visuals.
 (My take time to load as the size of images is a bit high)
